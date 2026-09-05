@@ -9,19 +9,20 @@
 <h3 align="center"> 
   <samp>
     <br>
-    「 <b> A Full-Stack Flutter Developer</b> 」
+「 <b>Flutter × Go × Cloud & Decentralized Systems</b> 」
     <br>
     <br>
   </samp>
 </h3>
 
 <p align="center">
- <a href="https://in.linkedin.com/in/akshay-koul-03b0462b5" target="_blank">
+        
+ <a href="https://linkedin.com/in/akshay-koul" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshay Koul"/>
  </a>
-        
- <a href="https://mailto:akshaykoul25122001@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EB562E?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Akshay Koul"/>
+
+ <a href="mailto:akshaykoul999@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Akshay Koul"/>
   </a>
 </p>
 <br>
@@ -32,11 +33,12 @@
  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding gif" />
 <p>
 
-📱 Flutter Developer | Go Backend Developer | UI/UX Enthusiast <br><br>
-💻 Proficient in Flutter for mobile app development and Go for backend services <br><br>
-🎨 Passionate about crafting beautiful and user-friendly experiences <br><br>
-🌐 Experienced in Firebase for real-time database and authentication, as well as AWS for scalable cloud solutions <br><br>
-📚 Actively contributing to open source projects and continuously learning and exploring new technologies <br><br>
+💼 Software Engineer, building a No-Code Mobile App Builder platform from the ground up <br><br>
+📱 Cross-platform mobile apps in Flutter using Clean Architecture & BLoC state management <br><br>
+⚙️ Backend microservices in Go — Gin, net/http, REST APIs, WebSockets, JWT, API Gateways <br><br>
+☁️ Cloud & infra across AWS (EC2, S3, IAM, VPC, Auto Scaling), Firebase, and Docker <br><br>
+🔗 Exploring decentralized systems — blockchain, smart contracts, and IPFS <br><br>
+📚 Always learning, always shipping <br><br>
 
 </p>
 
@@ -44,23 +46,29 @@
 
 # <samp>TECH STACK</samp>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ACD7?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 <br/>
 
 # <samp>REPOSITORY</samp>
 <div align="center">
-       <a href="https://github.com/AKSHAYK0UL/Nex-Social">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Nex-Social&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+       <a href="https://github.com/AKSHAYK0UL/Koul-Network">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Koul-Network&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
        </a>
-        <a href="https://github.com/AKSHAYK0UL/NexPlay">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=NexPlay&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/AKSHAYK0UL/Nex-Music">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Nex-Music&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
-        <a href="https://github.com/AKSHAYK0UL/Password_Manager">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Password_Manager&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/AKSHAYK0UL/Ghost">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Ghost&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
-        <a href="https://github.com/AKSHAYK0UL/Nex-Pay">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Nex-Pay&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        <a href="https://github.com/AKSHAYK0UL/IPFS">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=IPFS&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        </a>
+        <a href="https://github.com/AKSHAYK0UL/Go-SMTP-Email-Forwarder">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Go-SMTP-Email-Forwarder&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
+        </a>
+        <a href="https://github.com/AKSHAYK0UL/Nex-Social">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Nex-Social&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
         </a>
 </div>
 
@@ -91,4 +99,3 @@
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKSHAYK0UL&custom_title=Akshay%20koul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=238636&line=238636&point=238636&area_color=238636&title_color=c9d1d9&area=true">
-
