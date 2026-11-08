@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img"><style>text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Arial,sans-serif;} .m{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;}</style><defs></defs><defs><linearGradient id="n0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A84FF"/><stop offset="1" stop-color="#5AC8FA"/></linearGradient></defs><g transform="translate(0.0,0)">
+        <rect width="214.5" height="190" rx="24" fill="#1D1D1F"/>
+        <text x="24" y="42" style="font-size:12.5px;font-weight:600;letter-spacing:2px;fill:#86868B"></text>
+        <text x="22" y="104" style="font-size:44px;font-weight:700;letter-spacing:-1.8px;fill:url(#n0)">800+</text>
+        <text x="24" y="138" style="font-size:16px;fill:#86868B">transactions</text>
+        <text x="24" y="159" style="font-size:16px;fill:#86868B">processed</text></g><defs><linearGradient id="n1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#30D158"/><stop offset="1" stop-color="#64D2FF"/></linearGradient></defs><g transform="translate(228.5,0)">
+        <rect width="214.5" height="190" rx="24" fill="#1D1D1F"/>
+        <text x="24" y="42" style="font-size:12.5px;font-weight:600;letter-spacing:2px;fill:#86868B"></text>
+        <text x="22" y="104" style="font-size:44px;font-weight:700;letter-spacing:-1.8px;fill:url(#n1)">98.35%</text>
+        <text x="24" y="138" style="font-size:16px;fill:#86868B">payment success</text>
+        <text x="24" y="159" style="font-size:16px;fill:#86868B">rate</text></g><defs><linearGradient id="n2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BF5AF2"/><stop offset="1" stop-color="#FF375F"/></linearGradient></defs><g transform="translate(457.0,0)">
+        <rect width="214.5" height="190" rx="24" fill="#1D1D1F"/>
+        <text x="24" y="42" style="font-size:12.5px;font-weight:600;letter-spacing:2px;fill:#86868B"></text>
+        <text x="22" y="104" style="font-size:44px;font-weight:700;letter-spacing:-1.8px;fill:url(#n2)">40+</text>
+        <text x="24" y="138" style="font-size:16px;fill:#86868B">reusable</text>
+        <text x="24" y="159" style="font-size:16px;fill:#86868B">widgets</text></g><defs><linearGradient id="n3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9F0A"/><stop offset="1" stop-color="#FF375F"/></linearGradient></defs><g transform="translate(685.5,0)">
+        <rect width="214.5" height="190" rx="24" fill="#1D1D1F"/>
+        <text x="24" y="42" style="font-size:12.5px;font-weight:600;letter-spacing:2px;fill:#86868B">UP TO</text>
+        <text x="22" y="104" style="font-size:44px;font-weight:700;letter-spacing:-1.8px;fill:url(#n3)">60%</text>
+        <text x="24" y="138" style="font-size:16px;fill:#86868B">faster loads on</text>
+        <text x="24" y="159" style="font-size:16px;fill:#86868B">slow networks</text></g></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="214" viewBox="0 0 440 214" role="img"><style>text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Arial,sans-serif;} .m{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;}</style><defs><filter id="bl" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="34"/></filter><clipPath id="cp"><rect width="440" height="214" rx="24"/></clipPath></defs><rect width="440" height="214" rx="24" fill="#1D1D1F"/>
+    <g clip-path="url(#cp)"><circle cx="410" cy="10" r="62" fill="#FF9F0A" opacity=".38" filter="url(#bl)"/></g>
+    <text x="28" y="44" style="font-size:12px;font-weight:600;letter-spacing:2px;fill:#FF9F0A">INFRASTRUCTURE</text>
+    <text x="28" y="92" style="font-size:31px;font-weight:700;letter-spacing:-1px;fill:#F5F5F7">Go SMTP Forwarder</text>
+    <text x="28" y="126" style="font-size:15.5px;fill:#86868B">Custom-domain aliases, forwarded</text>
+    <text x="28" y="148" style="font-size:15.5px;fill:#86868B">straight to your inbox.</text>
+    <text x="28" y="188" style="font-size:13px;fill:#86868B">Go · SMTP</text>
+    <text x="412" y="188" text-anchor="end" style="font-size:15px;font-weight:500;fill:#2997FF">Learn more ›</text></svg>

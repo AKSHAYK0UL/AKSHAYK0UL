@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="175" viewBox="0 0 900 175" role="img"><style>text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Arial,sans-serif;} .m{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+    .e{font-size:15px;font-weight:600;letter-spacing:3px;fill:#0071E3;animation:rise .8s both}
+    .t{font-size:62px;font-weight:700;letter-spacing:-2px;fill:#1D1D1F;animation:rise .8s .1s both}
+    .s{font-size:21px;font-weight:400;fill:#6E6E73;animation:rise .8s .2s both}
+    </style><defs></defs><text class="e" x="450" y="40" text-anchor="middle">CONTACT</text>
+    <text class="t" x="450" y="106" text-anchor="middle">Let’s talk.</text>
+    <text class="s" x="450" y="148" text-anchor="middle">Mobile, backend and developer tools. I’d love to hear what you’re building.</text></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img"><style>text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Arial,sans-serif;} .m{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;}
+    .tag{font-size:21px;font-weight:500;fill:#86868B;letter-spacing:-.2px;opacity:0;animation:cyc 14s infinite both;}
+    @keyframes cyc{0%{opacity:0;transform:translateY(8px)}4%{opacity:1;transform:none}22%{opacity:1;transform:none}25%{opacity:0}100%{opacity:0}}
+    @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    @keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(70px,34px)}}
+    @keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-60px,40px)}}
+    @keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(50px,-30px)}}
+    .o1{animation:d1 16s ease-in-out infinite} .o2{animation:d2 19s ease-in-out infinite} .o3{animation:d3 22s ease-in-out infinite}
+    .eyebrow{font-size:15px;font-weight:600;letter-spacing:5px;fill:#86868B;animation:rise 1s .1s both}
+    .name{font-size:98px;font-weight:700;letter-spacing:-3.5px;fill:#F5F5F7;animation:rise 1s .25s both}
+    .grad{font-size:42px;font-weight:600;letter-spacing:-1px;fill:url(#g);animation:rise 1s .4s both}
+    </style><defs>
+<linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+  <stop offset="0" stop-color="#0A84FF"/><stop offset=".35" stop-color="#5E5CE6"/>
+  <stop offset=".7" stop-color="#BF5AF2"/><stop offset="1" stop-color="#FF375F"/>
+</linearGradient>
+<linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A84FF"/><stop offset="1" stop-color="#5AC8FA"/></linearGradient>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BF5AF2"/><stop offset="1" stop-color="#FF375F"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9F0A"/><stop offset="1" stop-color="#FF375F"/></linearGradient>
+<linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#30D158"/><stop offset="1" stop-color="#64D2FF"/></linearGradient>
+<filter id="b" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="62"/></filter>
+    <clipPath id="c"><rect width="900" height="440" rx="32"/></clipPath></defs>
+    <rect width="900" height="440" rx="32" fill="#000000"/>
+    <g clip-path="url(#c)" opacity=".6"><g filter="url(#b)">
+      <circle class="o1" cx="190" cy="110" r="120" fill="#0A84FF"/>
+      <circle class="o2" cx="720" cy="130" r="115" fill="#BF5AF2"/>
+      <circle class="o3" cx="470" cy="540" r="130" fill="#FF375F"/>
+    </g></g>
+    <text class="eyebrow" x="450" y="128" text-anchor="middle">SOFTWARE ENGINEER</text>
+    <text class="name" x="450" y="236" text-anchor="middle">Akshay Koul.</text>
+    <text class="grad" x="450" y="302" text-anchor="middle">Flutter × Go × Cloud.</text>
+    <text class="tag" x="450" y="380" text-anchor="middle" style="animation-delay:0.0s">Mobile. Backend. Cloud.</text><text class="tag" x="450" y="380" text-anchor="middle" style="animation-delay:3.5s">Simple on the surface. Rigorous underneath.</text><text class="tag" x="450" y="380" text-anchor="middle" style="animation-delay:7.0s">Building a no-code mobile app builder.</text><text class="tag" x="450" y="380" text-anchor="middle" style="animation-delay:10.5s">Always learning, always shipping.</text>
+    </svg>
