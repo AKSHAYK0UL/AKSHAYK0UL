@@ -1,101 +1,70 @@
-<img src="/background.png">
-<h2 align="center">
-        <samp>Hey There 👋, I am
-                <b>Akshay Koul</b>
-        </samp>
-</h2>
-
-
-<h3 align="center"> 
-  <samp>
-    <br>
-「 <b>Flutter × Go × Cloud & Decentralized Systems</b> 」
-    <br>
-    <br>
-  </samp>
-</h3>
-
-<p align="center">
-        
- <a href="https://linkedin.com/in/akshay-koul" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshay Koul"/>
- </a>
-
- <a href="mailto:akshaykoul999@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Akshay Koul"/>
-  </a>
-</p>
-<br>
-
-
- # <samp>ABOUT ME</samp>
- 
- <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding gif" />
-<p>
-
-💼 Software Engineer, building a No-Code Mobile App Builder platform from the ground up <br><br>
-📱 Cross-platform mobile apps in Flutter using Clean Architecture & BLoC state management <br><br>
-⚙️ Backend microservices in Go — Gin, net/http, REST APIs, WebSockets, JWT, API Gateways <br><br>
-☁️ Cloud & infra across AWS (EC2, S3, IAM, VPC, Auto Scaling), Firebase, and Docker <br><br>
-🔗 Exploring decentralized systems — blockchain, smart contracts, and IPFS <br><br>
-📚 Always learning, always shipping <br><br>
-
-</p>
-
-<br/>
-
-# <samp>TECH STACK</samp>
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ACD7?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-
-<br/>
-
-# <samp>REPOSITORY</samp>
 <div align="center">
-       <a href="https://github.com/AKSHAYK0UL/Koul-Network">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Koul-Network&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-       </a>
-        <a href="https://github.com/AKSHAYK0UL/Nex-Music">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Nex-Music&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
-        <a href="https://github.com/AKSHAYK0UL/Ghost">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Ghost&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
-        <a href="https://github.com/AKSHAYK0UL/IPFS">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=IPFS&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
-        <a href="https://github.com/AKSHAYK0UL/Go-SMTP-Email-Forwarder">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Go-SMTP-Email-Forwarder&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
-        <a href="https://github.com/AKSHAYK0UL/Nex-Social">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHAYK0UL&repo=Nex-Social&border_color=238636&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=238636">
-        </a>
+  <img alt="Akshay Koul, Software Engineer" src="assets/hero.svg" width="100%">
+</div>
+
+<p align="center"><b>I build the tools that let anyone build apps.</b></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-koul-03b0462b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:akshaykoul999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AKSHAYK0UL?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/All%20Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+</p>
+
+<!-- <div align="center">
+  <img alt="40+ reusable widgets. 98.35% payment success rate. Up to 60% faster loads." src="assets/stats.svg" width="100%">
+</div> -->
+
+<br>
+
+<h2 align="center">Work</h2>
+
+<div align="center">
+  <img alt="No-Code Mobile App Builder" src="assets/work.svg" width="100%">
 </div>
 
 <br>
 
+<h2 align="center">Projects</h2>
+
 <p align="center">
-  <a href="https://github.com/AKSHAYK0UL?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-238636?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/AKSHAYK0UL/Koul-Network"><img alt="Koul Network" src="assets/project-koul.svg" width="31%"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AKSHAYK0UL/Nex-Music"><img alt="Nex Music" src="assets/project-nex.svg" width="31%"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AKSHAYK0UL/Ghost"><img alt="Ghost" src="assets/project-ghost.svg" width="31%"></a>
+</p>
+
+<p align="center">
+  Also: <a href="https://github.com/AKSHAYK0UL/IPFS">IPFS</a> &nbsp;·&nbsp;
+  <a href="https://github.com/AKSHAYK0UL/Go-SMTP-Email-Forwarder">Go SMTP Email Forwarder</a> &nbsp;·&nbsp;
+  <a href="https://github.com/AKSHAYK0UL/Nex-Social">Nex Social</a>
 </p>
 
 <br>
-<br>
 
-<p align="center">
-  <a href="https://github.com/AKSHAYK0UL">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHAYK0UL&theme=soft-green&border=238636&background=0D1117" alt="Akshay's GitHub streak"/>
-  </a>
-</p>
+<h2 align="center">Tech Stack</h2>
 
-<br>
-<hr>
-<br>
-
-<div align="center"> 
-    <a href="https://github.com/AKSHAYK0UL"><img alt="Akshay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AKSHAYK0UL&show_icons=true&count_private=true&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
-  <a href="https://github.com/AKSHAYK0UL"><img alt="Akshay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYK0UL&langs_count=8&layout=compact&theme=soft-green&border_color=238636&bg_color=0D1117&title_color=c9d1d9&icon_color=238636" height="192px"/></a>
-  <br/>
+<div align="center">
+  <img alt="Tech stack" src="assets/stack.svg" width="100%">
 </div>
+
 <br>
 
+<h2 align="center">Activity</h2>
 
+<p align="center">
+  <a href="https://github.com/AKSHAYK0UL"><img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AKSHAYK0UL&theme=dark&background=161618&border=2c2c2e&ring=0a84ff&fire=ff9f0a&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=0a84ff&sideLabels=8e8e93&dates=8e8e93&stroke=2c2c2e&border_radius=18" width="50%"></a>
+</p>
+
+<!-- ACTIVITY:START -->
+<p align="right">
+  <img align="left" alt="Commit history" src="assets/activity.svg" width="83%">
+  <a href="https://github.com/AKSHAYK0UL"><img align="top" alt="2026" src="assets/pill-2026-active.svg" width="14.43%"></a><br>
+  <a href="years/2025.md"><img align="top" alt="2025" src="assets/pill-2025.svg" width="14.43%"></a><br>
+  <a href="years/2024.md"><img align="top" alt="2024" src="assets/pill-2024.svg" width="14.43%"></a><br>
+  <a href="years/2023.md"><img align="top" alt="2023" src="assets/pill-2023.svg" width="14.43%"></a>
+</p>
+<br clear="all">
+<!-- ACTIVITY:END -->
+
+<br>
+
+<p align="center"><sub>Always learning. Always shipping.</sub></p>
