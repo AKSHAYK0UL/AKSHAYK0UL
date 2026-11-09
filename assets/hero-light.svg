@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="210" viewBox="0 0 830 210" role="img" aria-label="Akshay Koul, Software Engineer">
+<defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+<clipPath id="c"><rect width="830" height="210" rx="22"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="830" height="210" fill="#fbfbfd"/>
+<g filter="url(#b)" opacity="0.1"><circle cx="300" cy="240" r="90" fill="#0071e3"/><circle cx="530" cy="250" r="90" fill="#af52de"/></g>
+<text x="415.0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#0071e3" text-anchor="middle" letter-spacing="3.5">SOFTWARE ENGINEER</text>
+<text x="415.0" y="122" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" fill="#1d1d1f" text-anchor="middle" letter-spacing="-1.5">Akshay Koul</text>
+<text x="415.0" y="160" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400" fill="#6e6e73" text-anchor="middle" letter-spacing="0">Flutter × Go × Cloud &amp; Decentralized Systems</text>
+</g>
+<rect x="0.5" y="0.5" width="829" height="209" rx="22" fill="none" stroke="#e5e5ea"/>
+</svg>
