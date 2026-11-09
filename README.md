@@ -48,23 +48,4 @@
 
 <br>
 
-<h2 align="center">Activity</h2>
-
-<p align="center">
-  <a href="https://github.com/AKSHAYK0UL"><img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AKSHAYK0UL&theme=dark&background=161618&border=2c2c2e&ring=0a84ff&fire=ff9f0a&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=0a84ff&sideLabels=8e8e93&dates=8e8e93&stroke=2c2c2e&border_radius=18" width="50%"></a>
-</p>
-
-<!-- ACTIVITY:START -->
-<p align="right">
-  <img align="left" alt="Commit history" src="assets/activity.svg" width="83%">
-  <a href="https://github.com/AKSHAYK0UL"><img align="top" alt="2026" src="assets/pill-2026-active.svg" width="14.43%"></a><br>
-  <a href="years/2025.md"><img align="top" alt="2025" src="assets/pill-2025.svg" width="14.43%"></a><br>
-  <a href="years/2024.md"><img align="top" alt="2024" src="assets/pill-2024.svg" width="14.43%"></a><br>
-  <a href="years/2023.md"><img align="top" alt="2023" src="assets/pill-2023.svg" width="14.43%"></a>
-</p>
-<br clear="all">
-<!-- ACTIVITY:END -->
-
-<br>
-
 <p align="center"><sub>Always learning. Always shipping.</sub></p>
